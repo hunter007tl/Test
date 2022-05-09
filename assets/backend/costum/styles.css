@@ -1,0 +1,12 @@
+.text-shadow{
+  text-shadow:1px 1px 0 #444;
+}
+
+#snoAlertBox{
+    position:absolute;
+    z-index:1400;
+    top:4%;
+    right:2%;
+    margin:0px auto;
+    display:none;
+}
